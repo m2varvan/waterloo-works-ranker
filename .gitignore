@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Job Matcher app data
+job_matcher.db
+job_matcher.db-journal
