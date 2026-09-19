@@ -7,6 +7,8 @@ allowed, so prioritizing the best-fit jobs matters.
 
 Everything runs on-device. No paid API is required.
 
+> Note: this project was vibe coded with the help of claude code.
+
 ## Features
 
 - Upload a resume (PDF, `.tex`, `.docx`, or `.txt`) as your baseline profile.
